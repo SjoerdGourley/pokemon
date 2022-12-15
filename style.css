@@ -6,7 +6,11 @@ body {
     background-color: black;
     font-size: 0;                                                                    
     font-family: 'Press Start 2P', sans-serif;
-                                                   
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    align-items:center;
+    justify-content:center;
 }
 .div-warscene{
     position: absolute;
